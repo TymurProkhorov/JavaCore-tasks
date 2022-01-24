@@ -1,0 +1,9 @@
+
+Q
+java:S1854";Remove this useless assignment to local variable "counter".(åµ¶ô
+E
+java:S1656"/Remove or correct this useless self-assignment.(åµ¶ô
+,
+java:S1700"Rename field "counter"(¸√œ‘
+{
+java:S4165"eRemove this useless assignment; "counter" already holds the assigned value along all execution paths.(åµ¶ô
